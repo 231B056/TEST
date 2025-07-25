@@ -2,5 +2,5 @@
 
 hii i am  using GitHub
 
-my anme is Anupam singh
+my name is Anupam singh
 
